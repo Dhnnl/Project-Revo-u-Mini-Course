@@ -1,10 +1,9 @@
 <!DOCTYPE html>
   <html>
     <head>
-      <tittle>Form Belajar</tittle>
-      <style></style>
+      <tittle><b>Form Belajar</b></tittle>
       <body>
-        <h1>Ini adalah website latihan pertama</h1>
+        <h1><i>Ini adalah website latihan pertama</i></h1>
         <form action="https://www.google.com/" method="SET">
           <label for="name">Nama :</label>
           <input id="name" type="text"/>
