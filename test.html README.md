@@ -2,9 +2,9 @@
   <html>
     <head>
       <tittle><h1><b>Form Belajar</b></h1></tittle>
-      .flex box {
+      <div>.flex box {
            display: flex;
-           flex-direction: column;
+           flex-direction: column; </div>
       <body>
         <h6><i>Ini adalah website latihan pertama</i></h6>
         <form action="https://www.google.com/" method="SET">
