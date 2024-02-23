@@ -2,13 +2,9 @@
   <html>
     <head>
       <tittle><h1><b>Form Belajar</b></h1></tittle>
-      <div>.flex box {
-           display: flex;
-           flex-direction: column; </div>
       <body>
         <h6><i>Ini adalah website latihan pertama</i></h6>
         <form action="https://www.google.com/" method="SET">
-          <div class="flex box">
           <label for="name">Nama :</label>
           <input id="name" type="text"/>
           <br>
@@ -19,8 +15,7 @@
           <label for="html">Laki-Laki</label>
           <input type="radio" id="perempuan" name="fav_language" value="Perempuan">
           <label for="html">Perempuan</label><br>
-          <input type="submit" value="Submit"
-            </div>
+          <input type="submit" value="Submit">
         </form>
       </body>
     </head>
