@@ -9,7 +9,7 @@
           <input id="name" type="text"/>
           <br>
           <label for="tanggal lahir">Tanggal Lahir :</label>
-          <input id="tanggal lahir" type="tanggal" />
+          <input id="date" type="tgl_lahir" />
           <br>
           <input type="radio" id="laki-laki" name="fav_language" value="Laki-Laki">
           <label for="html">Laki-Laki</label>
